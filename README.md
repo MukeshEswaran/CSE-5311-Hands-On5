@@ -8,3 +8,10 @@
 * The heap should be generic to the type of data (can store floats, int, custom datastructure)
 * Show example(s) of your heap working. Please demonstrate ALL the functionality you implemented.
 * Upload your source code to github along with your example(s).
+
+
+
+Output:
+
+
+![Screenshot 2024-09-24 201426](https://github.com/user-attachments/assets/33aef50c-5a36-4c0c-a6be-7429301ea3f0)
